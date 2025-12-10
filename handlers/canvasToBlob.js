@@ -9,7 +9,7 @@ const supportedFormats = [
     internal: "png"
   },
   {
-    name: "Joint Photographic Experts Group",
+    name: "Joint Photographic Experts Group JFIF",
     format: "jpeg",
     extension: "jpg",
     mime: "image/jpeg",
